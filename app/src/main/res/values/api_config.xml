@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="youtube_key">key</string>
+    <string name="youtube_path">path</string>
+    <string name="youtube_content_detail">contentDetails</string>
+</resources>
